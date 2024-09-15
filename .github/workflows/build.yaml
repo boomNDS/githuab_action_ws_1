@@ -9,5 +9,7 @@ jobs:
     steps:
       - name: Hello World
         run: echo "Hello World"
+      - name: check out and install dependencies
+        uses: actions/checkout@v4
       - name: echo server.js
         run: node server.js
