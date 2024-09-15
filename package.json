@@ -1,0 +1,11 @@
+{
+  "name": "githuab_action_ws_1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:boomNDS/githuab_action_ws_1.git",
+  "author": "boomNDS <boomsixboom@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
